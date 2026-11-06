@@ -1,0 +1,10 @@
+# Obsidianの画面状態（頻繁に変わるため除外）
+MAE-1/.obsidian/workspace*.json
+MAE-1/.obsidian/cache
+.trash/
+
+# 個人情報（作成者名）を含むため除外
+前資料/
+*.docx
+*.one
+*.onetoc2
