@@ -4,7 +4,8 @@
 
 | フォルダ | 内容 |
 |---|---|
-| `MAE-1/` | Obsidian保管庫（`C:\Users\hikac\Desktop\MAE-obsidian\MAE-1`）のコピー |
+| `MAE-1/` | Obsidian保管庫（閲覧・まとめ専用）のコピー |
+| `MAEoffice/` | Cursorの作業場所（マギの作業・組織ファイル）のコピー |
 
 - 正本はObsidian保管庫とデスクトップ上の元ファイル。このリポジトリはバックアップ用。
 - 空フォルダを保持するため、`MAE-1` 内の空フォルダには `.gitkeep` を置いている（Obsidian側には置いていない）。
